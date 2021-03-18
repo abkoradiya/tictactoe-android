@@ -2,7 +2,7 @@ package com.cynetstudios.tictactoe;
 
 import android.app.Dialog;
 import android.content.Context;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.text.InputFilter;
 import android.text.Spanned;
 import android.util.Log;
